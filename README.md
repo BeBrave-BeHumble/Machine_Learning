@@ -12,7 +12,7 @@ In the middle section deals with the deep learning architecture and feed-forward
 Finally, It implemented a deep learning project using TensorFlow and Pytorch.
 
 
-이 repo는 AI 중급 수준 정도의 커리큘럼을 담았습니다. 선수지식이 부족하더라도 부연설명을 많이 해두었기 때문에 충분히 이해가 가능할 것이라고 생각합니다.
+이 repo는 AI 중급 수준 정도의 커리큘럼을 담았습니다.
 
 초반부에는 머신러닝과 딥러닝의 알고리즘을 이해하고 직접 구현합니다. 크게 선형회귀/ 로지스틱 회귀/ 손실함수/ 경사하강법 파트로 나누었습니다.
 
