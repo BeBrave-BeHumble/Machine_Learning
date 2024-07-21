@@ -1,4 +1,4 @@
-# All About Machine Learning
+# 🍀 All About Machine Learning 🍀
 
 
 This repository contains machine learning study materials based on obtaining certifications such as 'ADP' and '빅데이터 분석기사'.
